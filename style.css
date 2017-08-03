@@ -1,0 +1,13 @@
+.box, .success {
+  background-color: #efefef; }
+
+.box, .success {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  border-radius: 10px; }
+
+.success {
+  color: green; }
+
+/*# sourceMappingURL=style.css.map */
